@@ -1,4 +1,4 @@
-#alculator in Python
+#Calculator in Python
 
 Simple calculator project developed in Python, focusing on learning the language and using Git/GitHub.
 

@@ -29,7 +29,7 @@ while True:
 
     show_menu()
 
-    opcao=input("Escolha uma opção")
+    opcao=input("Escolha uma opção:")
 
     if opcao == 0:
         print('Encerrando calculadora')
